@@ -684,6 +684,7 @@ form {
 
 .inputmail {
     display:flex;
+    Position:relative;
 }
 
 .inputmail input {

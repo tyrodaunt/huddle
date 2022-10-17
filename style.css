@@ -686,7 +686,7 @@ form {
 .inputmail {
     display:flex;
     Position:relative;
-    Top:900px;
+    Top:0px;
 }
 
 .inputmail input {
@@ -705,7 +705,7 @@ form {
     color: hsl(0, 100%, 63%);
     font-family: opensans;
     position: absolute;
-    top:40px;
+    top:50px;
     float: left;
 }
 
@@ -866,7 +866,7 @@ form {
     .error {
         float: left;
         margin-left: 10px;
-        margin-top: 5px;
+        margin-top: 10px;
     }    
     
     

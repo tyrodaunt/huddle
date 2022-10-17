@@ -171,7 +171,8 @@ header {
     .top-body {
        width:375px;
     }
-
+
+
     .top-body h1 {
         font-size: 35px;
         
@@ -185,7 +186,8 @@ header {
        margin-top: 40px;
     }
 
-         .screen-mockup {
+     
+    .screen-mockup {
        width:375px;
     }
     .screen-mockup svg {
@@ -679,7 +681,8 @@ form {
     margin-top: 50px;
 }
 
-.inputmail {
+
+.inputmail {
     display:flex;
 }
 
@@ -700,6 +703,7 @@ form {
     font-family: opensans;
     position: absolute;
     float: left;
+    Margin-too: 20px;
 }
 
 .inputmail.error input {
@@ -841,7 +845,8 @@ form {
     }
     
     
-    .inputmail {
+
+    .inputmail {
         display:block;
     }
 

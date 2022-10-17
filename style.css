@@ -705,7 +705,7 @@ form {
     color: hsl(0, 100%, 63%);
     font-family: opensans;
     position: absolute;
-    top:50px;
+    top:10px;
     float: left;
 }
 

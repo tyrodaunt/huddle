@@ -42,7 +42,7 @@ header {
 
 
 #header-logo{
-    margin-right: 700px;
+    margin-right: 800px;
     margin-left: 80px;
 }
 
@@ -686,6 +686,7 @@ form {
 .inputmail {
     display:flex;
     Position:relative;
+    Top:1240px;
 }
 
 .inputmail input {
@@ -704,7 +705,7 @@ form {
     color: hsl(0, 100%, 63%);
     font-family: opensans;
     position: absolute;
-    top:20px;
+    top:30px;
     float: left;
 }
 
